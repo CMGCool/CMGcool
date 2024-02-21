@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Randi Andhika Djaja</h1>
 <h3 align="center">A passionate Computer Engineering from Indonesia</h3>
 
