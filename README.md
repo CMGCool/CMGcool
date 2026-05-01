@@ -6,8 +6,6 @@
 ### 📫 Contact
 - Email: **randidjaja7@gmail.com**
 
-### ⚡ Fun Fact
-- I think I'm handsome 😎
 
 ---
 
