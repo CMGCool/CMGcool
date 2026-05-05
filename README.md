@@ -1,54 +1,48 @@
 <h1 align="center">Hi 👋, I'm Randi Andhika Djaja</h1>
-<h3 align="center">A passionate Computer Engineer from Indonesia</h3>
+<h3 align="center">A passionate Computer Engineer from Indonesia 🇮🇩</h3>
 
----
-
-### 📫 Contact
-- Email: **randidjaja7@gmail.com**
-
-
----
-
-### 🌐 Connect with me
-<p align="left">
+<p align="center">
+  <a href="mailto:randidjaja7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/randiandhikadjaja" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/randidjaja" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+### 🚀 About Me
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+* 💻 Focused on **Web Development & Machine Learning**
+* 🧠 Currently exploring **IndoBERT & NLP**
+* ⚙️ Tech stack: **Laravel, CodeIgniter, Python**
+* 📊 Interested in **Data & Sentiment Analysis**
 
-  <br/>
+---
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+### 🛠️ Languages & Tools
 
-  <br/>
-
-  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-
-  <br/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,java,cpp,html,css,bootstrap,codeigniter,postman,docker,mysql,git,figma,androidstudio,arduino&perline=8" />
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=randidjaja&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randidjaja&theme=tokyonight" />
+</p>
+
+---
+
+### ✨ Quote
+
+<p align="center">
+  <i>"Code. Learn. Improve. Repeat."</i>
+</p>
