@@ -11,6 +11,9 @@
   <a href="https://instagram.com/randidjaja" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://randiad.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -18,9 +21,8 @@
 ### 🚀 About Me
 
 * 💻 Focused on **Web Development & Machine Learning**
-* 🧠 Currently exploring **IndoBERT & NLP**
 * ⚙️ Tech stack: **Laravel, CodeIgniter, Python**
-* 📊 Interested in **Data & Sentiment Analysis**
+* 📊 Interested in **Web Development, AI Development, Tech Support**
 
 ---
 
