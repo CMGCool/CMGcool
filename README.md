@@ -29,7 +29,8 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,java,cpp,html,css,bootstrap,codeigniter,postman,docker,mysql,git,figma,androidstudio,arduino&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,flask,php,laravel,java,cpp,html,css,bootstrap,postman,docker,mysql,git,figma,androidstudio,arduino" />
+  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="48"/>
 </p>
 
 ---
