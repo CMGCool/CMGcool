@@ -46,8 +46,6 @@
 </p>
 ---
 
-### ✨ Quote
-
 <p align="center">
-  <i>"Code. Learn. Improve. Repeat."</i>
+  <i>" Are u alive or just existing? "</i>
 </p>
