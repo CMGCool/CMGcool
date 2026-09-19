@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-mu-blue-14.vercel.app/api?username=cmgcool&show_icons=true&hide=issues,prs&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-mu-blue-14.vercel.app/api/top-langs?username=cmgcool&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-mu-blue-14.vercel.app/api?username=cmgcool&show_icons=true&hide=issues,prs&theme=tokyonight&hide_border=true&v=1" />
+  <img src="https://github-readme-stats-mu-blue-14.vercel.app/api/top-langs?username=cmgcool&layout=compact&theme=tokyonight&hide_border=true&v=1" />
 </p>
 ---
 
